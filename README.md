@@ -1,4 +1,4 @@
-Hey there! I'm @brlim.
+Hi! I'm @brlim.
 
 I'm interested in all aspects of software development but I'm currently focused specifically on .NET and C#!
 I'm currently learning about all of the great new features and changes coming out with .NET 6 as well as
